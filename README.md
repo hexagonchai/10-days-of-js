@@ -1,1 +1,1 @@
-# 10-days-of-js
+Solutions for: https://www.hackerrank.com/domains/tutorials/10-days-of-javascript
